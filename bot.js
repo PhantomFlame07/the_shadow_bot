@@ -37,4 +37,4 @@ async def on_message(message):
         await client.send_message(message.channel,'5) No spamming')
     if message.content == '$rule6':
         await client.send_message(message.channel,'6) Do NOT tag me multiple times just because I did not answer')
-client.login(process.env.NTgwMTg3NzY3NzAzODYzMzAx.XONkTw.7kZ_pQriTUyhxKYPIorwmCdlfi0);
+client.login(process.env.NTgwMTg3NzY3NzAzODYzMzAx.XON5Qw.JVgsNdFzMafjmX2Bv57DuF2uLpo);
